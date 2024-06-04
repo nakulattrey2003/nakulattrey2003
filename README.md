@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working in Airbnb Project.
+I'm currently working in NetflixGPT Project.
 
 
 ## 🌐 Socials:
