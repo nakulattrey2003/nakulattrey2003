@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working in NetflixGPT Project.
+I'm currently working on NetflixGPT Project.
 
 
 ## 🌐 Socials:
