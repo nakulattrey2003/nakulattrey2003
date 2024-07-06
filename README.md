@@ -3,9 +3,9 @@ I'm currently working on NetflixGPT Project.
 
 
 ## 🌐 Socials:
-https://bio.site/nakulattreydev
-https://bio.link/nakulattrey2003
-https://linktr.ee/nakulattrey2003
+- https://bio.site/nakulattreydev
+- https://bio.link/nakulattrey2003
+- https://linktr.ee/nakulattrey2003
 
 
 # 💻 Tech Stack:
