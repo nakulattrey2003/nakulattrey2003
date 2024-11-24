@@ -6,6 +6,7 @@ I'm currently working on NetflixGPT Project.
 - https://bio.site/nakulattreydev
 - https://bio.link/nakulattrey2003
 - https://linktr.ee/nakulattrey2003
+- https://nakulattrey2003.tiiny.site/
 
 
 # 💻 Tech Stack:
